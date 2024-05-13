@@ -13,7 +13,7 @@ This project folder `DNLP_23-24_SN20099306` you will find:
 - `Datasets`: This folder contains the datasets for Task A: english_hope_dev.csv and english_hope_train.csv as well as the dataset for Task B: death_row_information.csv
 - `main.py`: this file runs the MENU to select which tasks to run
 - `README.md`: This file describing the assignment and guidance to run the code
-- 
+  
 # Packages required 
 - `numpy`: For calculations and numerical functions
 - `matplotlib`: For data visualisation
