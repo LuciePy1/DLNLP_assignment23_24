@@ -90,7 +90,7 @@ def main():
             print("0. Visualise Dataset")
             print("1. Re-collect dataset from Texas Department Death Row info page")
             print("2. Transfer Learning - Sentiment Analysis")
-            print("3. Transfer Learning - HopeSpeech Detection")
+            print("3. Transfer Learning - HopeSpeech Detection (please run TASK A-2 first)")
 
             # Get user input
             choice3 = input("Enter your choice (0-3): ")
