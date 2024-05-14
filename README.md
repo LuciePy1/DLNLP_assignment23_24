@@ -13,6 +13,8 @@ This project folder `DNLP_23-24_SN20099306` you will find:
 - `Datasets`: This folder contains the datasets for Task A: english_hope_dev.csv and english_hope_train.csv as well as the dataset for Task B: death_row_information.csv
 - `main.py`: this file runs the MENU to select which tasks to run
 - `README.md`: This file describing the assignment and guidance to run the code
+
+NOTE the pre-saved models were too big to be included, you should train and run the models of Task A from Scratch, which will then save into the A folder with their corresponding names (BERT / RoBERTa / with and without weighted class)
   
 # Packages required 
 - `numpy`: For calculations and numerical functions
