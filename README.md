@@ -4,8 +4,8 @@ The goal of this project is to explores the application of deep learning techniq
 
 This project folder `DNLP_23-24_SN20099306` you will find:
 - A folder `A`: this folder contains contains the model file codes for Task A:
-  - HopeEDI_Bert_model.py` which contains the fine-tuning BERT model Class and corresponding functions to code and execute model (including from scratch or from pre-saved as well as with and without set-up of class weights.
-  - HopeEDI_Roberta_model.py` which contains the fine-tuning ROBERTA model Class and corresponding functions to code and execute model (including from scratch or from pre-saved as well as with and without set-up of class weights.
+  - `HopeEDI_Bert_model.py` which contains the fine-tuning BERT model Class and corresponding functions to code and execute model (including from scratch or from pre-saved as well as with and without set-up of class weights.
+  - `HopeEDI_Roberta_model.py` which contains the fine-tuning ROBERTA model Class and corresponding functions to code and execute model (including from scratch or from pre-saved as well as with and without set-up of class weights.
 - A folder `B`: this folder contains contains the model file codes for Task  B:
   - `Death_row_data_scraping.py` which contains functions to collect the dataset for Task B from the Texas Death Row information.
   - `SentimentAnalysis.py` This class contains the functions to run the model of sentiment analysis on the dataset.
